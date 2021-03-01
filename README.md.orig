@@ -8,6 +8,10 @@ Simple readme file
 
 branch
 
+<<<<<<< HEAD
+there would be some issue
+=======
 second change for updates branch
 
 bad update
+>>>>>>> bad
