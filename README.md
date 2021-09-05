@@ -7,13 +7,13 @@ A YouTube clone using MERN stack technologies.The purpose of this project is to 
 - Amazing Loading Speed
 - Reusability
 - Password Recovery System
-- json web token authentication
+- Json Web Token authentication
 - Security
 - Unique Login System like google login system
 
 ## Preview
 
-[![YourPortfolio Preview](https://raw.githubusercontent.com/ValeedAnjum/yourportfolio/master/public/img/yourportfolio.png)](https://valeedanjum.github.io/yourportfolio/)
+[![YourPortfolio Preview](https://github.com/ValeedAnjum/advancegit/blob/master/YouTube.jpg)](https://valeedanjum.github.io/home/)
 **[View Live Preview](https://valeedanjum.github.io/home/)**
 
 ## Tech
