@@ -34,7 +34,7 @@ YouTube MERN clone uses a number of open source projects:
 
 - [BcryptJs](https://www.npmjs.com/package/bcryptjs) - bcrypt is a password-hashing function designed by Niels Provos and David Mazières.
 
-- [node](https://nodejs.org/) - Node.js® is a JavaScript runtime built on Chrome's
+- [Node](https://nodejs.org/) - Node.js® is a JavaScript runtime built on Chrome's
   V8 JavaScript engine.
 
 - [MongoDB](https://www.mongodb.com/) - MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
