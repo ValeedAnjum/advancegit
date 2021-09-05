@@ -37,7 +37,7 @@ YouTube MERN clone uses a number of open source projects:
 - [node](https://nodejs.org/) - Node.js® is a JavaScript runtime built on Chrome's
   V8 JavaScript engine.
 
-- [MongoDb](https://www.mongodb.com/) - MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
+- [MongoDB](https://www.mongodb.com/) - MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
 
 - [Cors](https://www.npmjs.com/package/cors) - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
 
@@ -45,12 +45,12 @@ YouTube MERN clone uses a number of open source projects:
 
 - [ExpressJs](https://expressjs.com/) - Express.js, or simply Express, is a back end web application framework for Node.js
 
-- [express-validator](https://express-validator.github.io/docs/) - express-validator is a set of express.js middlewares that wraps validator.js validator and sanitizer functions.
+- [Express-Validator](https://express-validator.github.io/docs/) - express-validator is a set of express.js middlewares that wraps validator.js validator and sanitizer functions.
 
 - [JsonWebToken](https://www.npmjs.com/package/jsonwebtoken) - JSON Web Token is a proposed Internet standard for creating data with optional signature and/or optional encryption whose payload holds JSON that asserts some number of claims.
 
 - [Mongoose](https://mongoosejs.com/) - Mongoose provides a straight-forward, schema-based solution to model your application data. It includes built-in type casting, validation, query building, business logic hooks and more, out of the box.
 
-- [nodemailer](https://nodemailer.com/about/) - Nodemailer is a module for Node.js applications to allow easy as cake email sending.
+- [Nodemailer](https://nodemailer.com/about/) - Nodemailer is a module for Node.js applications to allow easy as cake email sending.
 
 - [nodemailer](https://expressjs.com/) - Express.js, or simply Express, is a back end web application framework for Node.js
