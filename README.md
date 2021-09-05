@@ -20,21 +20,27 @@ A YouTube clone using MERN stack technologies.The purpose of this project is to 
 
 YouTube MERN clone uses a number of open source projects:
 
+- [React](https://reactjs.org/) - React is a free and open-source front-end JavaScript library for building user interfaces or UI components.
+
+- [Redux](https://redux.js.org/) - Redux is an open-source JavaScript library for managing application state.
+
 - [Material UI](https://material-ui.com/) - React components for faster and easier web development
 
 - [Axios](https://www.npmjs.com/package/axios) - Axios is a promise-based HTTP Client for node.js and the browser.
 
 - [MomentJS](https://momentjs.com/) - MomentJS is a JavaScript library which helps is parsing, validating, manipulating and displaying date/time in JavaScript in a very easy way.
 
-- [React](https://reactjs.org/) - React is a free and open-source front-end JavaScript library for building user interfaces or UI components.
-
-- [Redux](https://redux.js.org/) - Redux is an open-source JavaScript library for managing application state.
-
 - [UUID](https://www.npmjs.com/package/uuid) - A universally unique identifier
 
 - [BcryptJs](https://www.npmjs.com/package/bcryptjs) - bcrypt is a password-hashing function designed by Niels Provos and David Mazières.
--
+
+- [node](https://nodejs.org/) - Node.js® is a JavaScript runtime built on Chrome's
+  V8 JavaScript engine.
+
+- [MongoDb](https://www.mongodb.com/) - MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
+
 - [Cors](https://www.npmjs.com/package/cors) - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+
 - [CryptoJs](https://www.npmjs.com/package/crypto-js) - JavaScript library of crypto standards.
 
 - [ExpressJs](https://expressjs.com/) - Express.js, or simply Express, is a back end web application framework for Node.js
@@ -48,8 +54,3 @@ YouTube MERN clone uses a number of open source projects:
 - [nodemailer](https://nodemailer.com/about/) - Nodemailer is a module for Node.js applications to allow easy as cake email sending.
 
 - [nodemailer](https://expressjs.com/) - Express.js, or simply Express, is a back end web application framework for Node.js
-
-- [node](https://nodejs.org/) - Node.js® is a JavaScript runtime built on Chrome's
-  V8 JavaScript engine.
-
-- [MongoDb](https://www.mongodb.com/) - MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
