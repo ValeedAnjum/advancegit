@@ -56,5 +56,5 @@ YouTube MERN clone uses a number of open source projects:
 
 
 
-https://user-images.githubusercontent.com/32477374/132256738-a07f1c6a-fe66-4119-8b2b-ff300e99d15a.mp4
-
+<!-- https://user-images.githubusercontent.com/32477374/132256738-a07f1c6a-fe66-4119-8b2b-ff300e99d15a.mp4
+ -->
