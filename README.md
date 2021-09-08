@@ -52,3 +52,9 @@ YouTube MERN clone uses a number of open source projects:
 - [Mongoose](https://mongoosejs.com/) - Mongoose provides a straight-forward, schema-based solution to model your application data. It includes built-in type casting, validation, query building, business logic hooks and more, out of the box.
 
 - [Nodemailer](https://nodemailer.com/about/) - Nodemailer is a module for Node.js applications to allow easy as cake email sending.
+
+
+
+
+https://user-images.githubusercontent.com/32477374/132256738-a07f1c6a-fe66-4119-8b2b-ff300e99d15a.mp4
+
